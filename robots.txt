@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://soumyarout.github.io/sitemap.xml 
